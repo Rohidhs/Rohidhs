@@ -1,4 +1,4 @@
-### Hi there, I'm Rohidh Sakthivel 👋
+#### Hi there, I'm Rohidh Sakthivel 👋
 
 🚀 Passionate about Software Development | AI Enthusiast | Full Stack Developer  
 🎓 B.E. in Computer Science and Engineering | Expected Graduation: Nov 2026  
@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
 - 💻 Languages: Python | Java | JavaScript | SQL | HTML | CSS  
 - 🧠 AI & ML: GPT, Deep Learning, NLP, Generative AI  
