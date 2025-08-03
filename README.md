@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Rohidh Sakthivel!</h1>
-<h3 align="center">Aspiring Full Stack Developer | Creative Technologist | Future Filmmaker</h3>
+<h3 align="center">Aspiring Full Stack Developer | Creative Technologist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Solving+Real-world+Problems;Coding+and+Creating+with+Purpose" alt="Typing SVG" />
