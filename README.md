@@ -10,6 +10,7 @@
 ## 🎯 What Drives Me
 
 I'm passionate about building efficient, user-friendly applications that solve real-world problems. As an aspiring full stack developer, I enjoy learning new technologies, contributing to impactful projects, and continuously sharpening my skills through hands-on experience. I’m especially interested in **AI, web development, and automation**, and I strive to create solutions that are both scalable and meaningful to users.
+
 ---
 
 ## 🎓 Education
