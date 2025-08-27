@@ -85,6 +85,6 @@ Built during campus recruitment training to help users track and analyze expense
 <p align="center">
   <a href="https://github.com/Rohidhs" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rohidh-sakthivel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rohidhsakthivel277@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="rohidhsakthivel277@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/ROHIDH_SAKTHIVEL/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
 </p>
